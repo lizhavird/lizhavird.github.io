@@ -1,0 +1,7 @@
+var myAdjective = prompt("Please enter and adjective.")
+var myNoun = prompt("Please enter a noun.")
+var myLiquid = prompt("Please enter a liquid.")
+var myBodyPart = prompt("Please name a body part.")
+var myVerb = prompt("Please list a verb.")
+var myPlace = prompt("Please name a place.")
+alert(`Piranhas are more ${myAdjective} during the day, so make sure you cross the ${myNoun} at night. Piranhas are attracted to fresh ${myLiquid} and will most likely take a bite out of your ${myBodyPart} if you ${myVerb}. Whatever you do, if you have an open ${myNoun} try and find another way to get back to ${myPlace}. Good luck!`)
